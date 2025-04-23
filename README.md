@@ -57,13 +57,14 @@ uvicorn backend.main:app --reload & npm --workspace frontend run dev
 
 See the `/docs` folder for detailed documentation:
 
-- [Product Requirements](docs/PRD.md)
-- [Architecture](docs/ARCHITECTURE.md)
-- [Security Considerations](docs/SECURITY.md)
-- [Module Documentation](docs/MODULES.md)
-- [Prompt Library](docs/PROMPTS.md)
-- [Folder Structure](docs/FOLDER_STRUCTURE.md)
-- [Deployment Guide](docs/DEPLOYMENT.md)
+- [Product Requirements](docs/Product%20Requirements%20Document.md)
+- [Architecture](docs/Architecture.md)
+- [Security Considerations](docs/Security.md)
+- [Module Documentation](docs/Modules.md)
+- [Prompt Library](docs/Prompts.md)
+- [Folder Structure](docs/Folder-structure.md)
+- [Deployment Guide](docs/Deployments.md)
+- [Database Schema](docs/Database_Schema.md)
 
 ## 📷 Demo
 
